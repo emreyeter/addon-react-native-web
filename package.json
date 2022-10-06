@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/storybookjs/addon-react-native-web"
+    "url": "https://github.com/emreyeter/addon-react-native-web.git"
   },
   "license": "MIT",
   "main": "dist/cjs/index.js",

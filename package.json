@@ -61,7 +61,7 @@
     "auto": "^10.3.0",
     "babel-jest": "^26.6.3",
     "babel-loader": "^8.1.0",
-    "babel-plugin-react-native-web": "^0.17.5",
+    "babel-plugin-react-native-web": "^0.18.9",
     "boxen": "^5.0.1",
     "chromatic": "^6.0.6",
     "concurrently": "^6.2.0",
@@ -102,7 +102,7 @@
     "@storybook/components": "^6 || 6.4.0-rc.1",
     "@storybook/core-events": "^6 || 6.4.0-rc.1",
     "@storybook/theming": "^6 || 6.4.0-rc.1",
-    "babel-plugin-react-native-web": "^0.17.1",
+    "babel-plugin-react-native-web": "^0.18.9",
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
     "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
